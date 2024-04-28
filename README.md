@@ -1,3 +1,7 @@
+
+![image](https://github.com/a2rp/dynamic-tabs/assets/5670738/79069618-4751-469f-8e60-4f682aaac854)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
