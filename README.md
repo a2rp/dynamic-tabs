@@ -1,15 +1,16 @@
 # Dynamic Tabs
 
-A focused React tabs app for browsing programming language notes without leaving the page.
+A focused React tabs app for comparing programming language paradigms, with concise definitions and example languages.
 
 ![Dynamic Tabs screenshot](screenshot.png)
 
 ## Features
 
-- Data-driven programming language tabs
+- Data-driven tabs for common programming paradigms
 - Content rendered from a local JSON data source
 - First tab selected with content visible on initial load
-- Accessible tab buttons with active-state styling
+- Keyboard-accessible tabs with arrow-key, Home, and End navigation
+- A labelled tab panel with managed keyboard focus
 - Fixed branded header, icon-only footer links, and go-to-top control
 
 ## Tech stack
@@ -29,6 +30,8 @@ Build and deploy to GitHub Pages:
 npm run build
 npm run deploy
 ```
+
+Use the left and right arrow keys to move between tabs. Home and End move to the first and last tab. The notes describe paradigms and give examples; languages can support more than one paradigm.
 
 ## Links
 

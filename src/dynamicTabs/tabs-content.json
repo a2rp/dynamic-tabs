@@ -17,7 +17,7 @@
     {
         "id": 4,
         "tab": "Scripting",
-        "content": "Programmers use scripting languages to automate repetitive tasks, manage dynamic web content, or support processes in larger applications. Some common scripting languages include:<ul><li>PHP</li><li>Ruby</li><li>Python</li><li>bash</li><li>Perl</li><li>Node.js</li></ul>"
+        "content": "Programmers use scripting languages to automate repetitive tasks, manage dynamic web content, or support processes in larger applications. Some common scripting languages include:<ul><li>JavaScript</li><li>PHP</li><li>Ruby</li><li>Python</li><li>Bash</li><li>Perl</li></ul>"
     },
     {
         "id": 5,
