@@ -66,7 +66,7 @@ const DynamicTabs = () => {
                     <img src={`${process.env.PUBLIC_URL}/logo.png`} alt="Ashish Ranjan logo" />
                     <span>
                         <strong>Dynamic Tabs</strong>
-                            <small>Programming paradigms</small>
+                            <small>Programming paradigms and styles</small>
                     </span>
                 </a>
                 <a className={styles.headerLink} href="https://github.com/a2rp/dynamic-tabs" target="_blank" rel="noopener noreferrer">
@@ -78,11 +78,11 @@ const DynamicTabs = () => {
             <main className={styles.main}>
                 <section className={styles.intro}>
                     <span className={styles.eyebrow}>LEARN BY COMPARING</span>
-                    <h1>Programming language paradigms</h1>
+                    <h1>Programming paradigms and styles</h1>
                     <p>Compare concise notes and examples without leaving the page.</p>
                 </section>
 
-                <div className={styles.tabHeaderContainer} role="tablist" aria-label="Programming paradigms">
+                <div className={styles.tabHeaderContainer} role="tablist" aria-label="Programming paradigms and styles">
                     {tabsContent.map((item, index) => (
                         <button
                             type="button"

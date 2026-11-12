@@ -1,12 +1,12 @@
 # Dynamic Tabs
 
-A focused React tabs app for comparing programming language paradigms, with concise definitions and example languages.
+A focused React tabs app for comparing programming language paradigms and related styles, with concise definitions and example languages.
 
 ![Dynamic Tabs screenshot](screenshot.png)
 
 ## Features
 
-- Data-driven tabs for common programming paradigms
+- Data-driven tabs for common programming paradigms and language styles
 - Content rendered from a local JSON data source
 - First tab selected with content visible on initial load
 - Keyboard-accessible tabs with arrow-key, Home, and End navigation
@@ -31,7 +31,7 @@ npm run build
 npm run deploy
 ```
 
-Use the left and right arrow keys to move between tabs. Home and End move to the first and last tab. The notes describe paradigms and give examples; languages can support more than one paradigm.
+Use the left and right arrow keys to move between tabs. Home and End move to the first and last tab. The notes distinguish programming paradigms from related styles such as scripting; a language can support more than one.
 
 ## Links
 
